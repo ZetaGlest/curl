@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\tests\libtest\lib557.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\tests\libtest\first.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\tests\libtest\test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\tests\libtest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5F33FFC4-12FD-3347-9520-220597763EB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D9242CF8-FEE2-3CAB-B4E5-43A628C7F1CA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

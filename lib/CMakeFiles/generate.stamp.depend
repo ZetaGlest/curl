@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/lib/CMakeLists.txt
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/lib/curl_config.h.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/lib/Makefile.inc.cmake

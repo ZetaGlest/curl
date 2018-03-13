@@ -1,0 +1,69 @@
+# CMake generation dependency list for this directory.
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMakeLists.txt
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/Utilities.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/Macros.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMakeFiles/3.10.2/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMakeFiles/3.10.2/CMakeCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMakeFiles/3.10.2/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/CurlSymbolHiding.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPerl.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindCygwin.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeDependentOption.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/Platforms/WindowsCache.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/FindLibSSH2.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/OtherTests.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/DartConfiguration.tcl.in
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/curl-config.in
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/libcurl.pc.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/curl-config.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/curl/CMake/cmake_uninstall.cmake.in

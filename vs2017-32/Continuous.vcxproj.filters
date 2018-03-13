@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\CMakeFiles\604215f3c5501f20c8b63fc187037273\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\curl\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{18C098AE-2D39-3D56-8500-6054EE910620}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
