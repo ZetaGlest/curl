@@ -277,7 +277,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>..\include\curl;..\include;..\lib;..\..\zlib;..\..\..\openssl-1.1.0f-vs2015\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\include\curl;..\include;..\lib;..\..\zlib;..\..\..\openssl\vs2015\include</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Release/</AssemblerListingLocation>
       <CompileAs>CompileAsC</CompileAs>
       <DisableSpecificWarnings>4127</DisableSpecificWarnings>
@@ -324,7 +324,7 @@
       <AdditionalDependencies>zlibstatic.lib;libcryptoMT.lib;libsslMT.lib;crypt32.lib</AdditionalDependencies>
     </Lib>
     <Lib>
-      <AdditionalLibraryDirectories>..\..\zlib\vs2015-32\Release;..\..\..\openssl-1.1.0f-vs2015\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\zlib\vs2015-32\Release;..\..\..\openssl\vs2015\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>%(AdditionalOptions) /machine:x86</AdditionalOptions>
     </Lib>
   </ItemDefinitionGroup>

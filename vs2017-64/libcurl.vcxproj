@@ -225,7 +225,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>..\include\curl;..\include;..\lib;..\..\zlib;..\..\..\openssl-1.1.0f-vs2017\include64</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\include\curl;..\include;..\lib;..\..\zlib;..\..\..\openssl\vs2017\include64</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Release/</AssemblerListingLocation>
       <CompileAs>CompileAsC</CompileAs>
       <DisableSpecificWarnings>4127</DisableSpecificWarnings>
@@ -271,7 +271,7 @@
       <AdditionalDependencies>zlibstatic.lib;libcryptoMT.lib;libsslMT.lib;crypt32.lib</AdditionalDependencies>
     </Lib>
     <Lib>
-      <AdditionalLibraryDirectories>..\..\zlib\vs2017-64\Release;..\..\..\openssl-1.1.0f-vs2017\lib64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\zlib\vs2017-64\Release;..\..\..\openssl\vs2017\lib64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Lib>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
