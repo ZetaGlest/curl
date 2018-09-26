@@ -9,6 +9,7 @@
 *.obj
 *.pdb
 *.pyc
+*.aps
 *~
 .*.sw?
 .cproject
